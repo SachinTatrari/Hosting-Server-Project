@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
-    "ip": "^2.0.1"
+    "ip": "^2.0.1",
+    "pm2": "^5.4.3"
   }
 }
